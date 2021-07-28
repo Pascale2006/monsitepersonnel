@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "page internet .html",
+			"path": "."
+		},
+		{
+			"name": "coding",
+			"path": "../coding"
+		},
+		{
+			"name": "Mon woyo",
+			"path": "../Mon woyo"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "page internet .html"
+	}
+}
